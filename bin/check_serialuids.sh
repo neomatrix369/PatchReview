@@ -1,18 +1,6 @@
 #!/bin/sh
 
-<<<<<<< HEAD
-# 
-# The GNU General Public License (GPL)
-
-# Version 2, June 1991
-
-# Copyright (C) 1989, 1991 Free Software Foundation, Inc.
-# 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
-
-# Everyone is permitted to copy and distribute verbatim copies of this license
-# document, but changing it is not allowed.
-# 
-=======
+# check_serialuids.sh - .
 #
 # Copyright (c) 2012, John Oliver <johno@insightfullogic.com>, Richard Warburton <richard.warburton@gmail.com> All rights reserved.
 # 
@@ -34,7 +22,6 @@
 # 2 along with this work; if not, write to the Free Software Foundation,
 # Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.
 #
->>>>>>> efd33130330dcd8b1cd4afa325543721cd4bdee1
 
 patch_dir=$1
 generated_uid_file=$2
